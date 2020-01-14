@@ -10,7 +10,7 @@ This Helm Chart is designed to facilitate the deployment of the Dynatrace OneAge
 
 ### Notes
 - This chart was built & tested using Helm v2.16.1. This has not been tested with Helm v3
-- The core Dynatrace Kubernetes installation instructions can be found below and should be used for reference for any custom neededs
+- The core Dynatrace Kubernetes installation instructions can be found below and should be used for reference for any custom needs
 
 ### Deploy OneAgent on Kubernetes (Dynatrace Documentation)
 <https://www.dynatrace.com/support/help/infrastructure/containers/how-do-i-deploy-dynatrace-oneagent-on-kubernetes>
