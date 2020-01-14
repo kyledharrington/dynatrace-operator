@@ -2,7 +2,7 @@
 ![](https://dt-cdn.net/images/dynatrace-logo-rgb-cph-800x142px-ac1b21b785.svg)
 
 # Dynatrace Operator Helm Chart
-This Helm Chart is designed to facilitate the deployment of the Dynatrace OneAgent as a Helm Chart. This Operator configuration is a prerequisite for deploying the OneAgent. 
+This Helm Chart is designed to facilitate the deployment of the Dynatrace OneAgent as a Helm Chart. This Operator configuration is a prerequisite for deploying the OneAgent helm chart. 
 
 ### Prerequisites
 1. A Dynatrace namespace has been created in your cluster
